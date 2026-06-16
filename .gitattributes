@@ -1,0 +1,5 @@
+# Large manuscript assets (Git LFS)
+artifacts/manuscript/**/*.pkl filter=lfs diff=lfs merge=lfs -text
+artifacts/manuscript/**/model_seed*_cloud.pkl filter=lfs diff=lfs merge=lfs -text
+artifacts/manuscript/ligand_feature_lookup.joblib filter=lfs diff=lfs merge=lfs -text
+artifacts/manuscript/ligand_feature_lookup.sqlite filter=lfs diff=lfs merge=lfs -text

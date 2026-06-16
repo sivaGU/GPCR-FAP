@@ -1,0 +1,17 @@
+{
+  "conservation_by_level": {
+    "variable": 50,
+    "moderately_conserved": 18,
+    "conserved": 4
+  },
+  "conserved_positions": 0,
+  "average_conservation_score": 3.7222222222222223,
+  "highly_conserved_residues": 0,
+  "conserved_residues": 4,
+  "variable_residues": 50,
+  "conservation_by_level_pct": {
+    "variable": 69.4,
+    "moderately_conserved": 25.0,
+    "conserved": 5.6
+  }
+}
