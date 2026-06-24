@@ -1,6 +1,6 @@
 # GPCR-FAP GUI
 
-Streamlit app for **Class A GPCR** receptor–ligand **multiclass** functional activity prediction (Agonist / Antagonist / Inactive), with optional **SMINA** docking and **py3Dmol** visualization.
+Streamlit app for **Class A GPCR** receptor–ligand **multiclass** functional activity prediction (Agonist / Antagonist / Inactive), with optional **SMINA** docking and **py3Dmol** visualization tool.
 
 - **Live app:** https://gpcr-fap-final.streamlit.app
 - **Repository:** https://github.com/sivaGU/GPCR-FAP
