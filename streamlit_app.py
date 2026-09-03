@@ -1,4 +1,4 @@
-﻿"""
+"""
 GPCR Class A Functional Activity Prediction Streamlit GUI.
 
 Run from this folder (project root):
@@ -1151,6 +1151,13 @@ def render_home_page():
         "| Top docking pose | SMINA score (kcal/mol), when docking is run |\n"
         "| 3D viewer | Receptor + docked ligand in py3Dmol |\n"
         "| Pocket contacts | Closest receptor residues to the docked ligand |"
+    )
+
+    st.subheader("Contact Information")
+    st.markdown(
+        "**For Contact:** Dr. Sivanesan Dakshanamurthy, PhD, MBA. "
+        "[sivanesan@innsciteai.com](mailto:sivanesan@innsciteai.com); "
+        "[sd233@georgetown.edu](mailto:sd233@georgetown.edu)"
     )
 
 
